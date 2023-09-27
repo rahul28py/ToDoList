@@ -1,6 +1,5 @@
 # ToDoList
 
-Certainly, let's reframe the steps for your Todo List application with React:
 
 **Step 1: User Registration**
 
